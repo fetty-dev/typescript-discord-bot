@@ -1,3 +1,5 @@
 .env
 node_modules/
 dist/
+amdgpu-install_6.3.60301-1_all.deb
+ollama_wsl2.log
